@@ -1,0 +1,14 @@
+.presentation {
+  background-color: grey;
+  width: 300px;
+  padding: 10px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  box-sizing: border-box;
+  word-wrap: break-word;
+}
+
+.presentation h1 {
+  font-weight: bold;
+}
